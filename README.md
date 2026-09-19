@@ -1,6 +1,6 @@
-# ElEm Software — dokumenty prawne
+# ElEm Software — legal documents
 
-Publiczna polityka prywatności aplikacji **Sudoku Generator**.
+Public privacy policy for the **Sudoku Generator** Android app (English).
 
-Po włączeniu GitHub Pages strona będzie pod:
-`https://leszek1matuszczyk.github.io/elemsoftware-legal/`
+Live page (GitHub Pages):
+https://leszek1matuszczyk.github.io/elemsoftware-legal/
